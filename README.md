@@ -1,2 +1,0 @@
-# css-cv
-Finish project
