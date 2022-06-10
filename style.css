@@ -78,6 +78,7 @@ h6 {
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap");
 
 body {
+  width: 100%;
   background-color: snow;
   color: snow;
 
