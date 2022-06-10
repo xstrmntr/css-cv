@@ -78,9 +78,7 @@ h6 {
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap");
 
 body {
-  background-color: snow;
   color: snow;
-
   font-size: 17px;
   font-weight: lighter;
   font-family: "Courier New", Courier, monospace;
@@ -115,7 +113,7 @@ a:active {
 .info:hover {
   box-shadow: 0px 0px 30px #930093;
 }
-@media (max-device-width: 700px) {
+@media (max-width: 480px){
   .info {
     text-align: center;
     display: block;
